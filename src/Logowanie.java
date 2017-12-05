@@ -20,7 +20,7 @@ public class Logowanie extends JFrame {
             rezultatLable = new JLabel(  );
 
     Logowanie() {
-        setTitle("Logowanie");
+        setTitle("LogowanieN");
         Container c = getContentPane();
         setSize(400, 400);
         setLayout(null);
